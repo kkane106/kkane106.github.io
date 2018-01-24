@@ -4,19 +4,19 @@
     "price" : 3.99,
     "rating" : 3,
     "inStock" : false
-  }
+  },
   {
     "name" : "Bubble Gum",
     "price" : 0.99,
     "rating" : 2,
     "inStock" : true
-  }
+  },
   {
     "name" : "Cocoa Puffs",
     "price" : 4.99,
     "rating" : 5,
     "inStock" : true
-  }
+  },
   {
     "name" : "Dental Floss",
     "price" : 1.99,
